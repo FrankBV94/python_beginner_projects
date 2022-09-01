@@ -4,24 +4,24 @@
 ## Table of Contents
 - [Python-Begginer-projects](#python-begginer-projects)
   - [Table of Contents](#table-of-contents)
-  - [General Info](#general-info)
-  - [Technologies](#technologies)
-  - [Installation](#installation)
-  - [Collaboration](#collaboration)
-  - [FAQs](#faqs)
+    - [General Info](#general-info)
+    - [Technologies](#technologies)
+    - [Installation](#installation)
+    - [Collaboration](#collaboration)
+    - [FAQs](#faqs)
 
 
-## General Info
+### General Info
 ***
 
-## Technologies
+### Technologies
 ***
 A list of technologies used within the project:
 * [Python](https://www.python.org/): Version 3.10.5
 * [Visual Studio Code](https://code.visualstudio.com/): Version 1.69.2
-## Installation
+### Installation
 ***
-## Collaboration
+### Collaboration
 ***
-## FAQs
+### FAQs
 ***
